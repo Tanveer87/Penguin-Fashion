@@ -4,11 +4,23 @@ body{
 }
 h5{
     font-weight: bold;
+    color:blue;
 }
 
 .title-card{
     border: 0;
     
+}
+
+
+button{
+    background-color: #ff8000 ;
+    border-radius: 10px;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+    color: white;
+
 }
 
 .woman-card{
@@ -17,6 +29,14 @@ h5{
     border-radius: 20px;
     
     
+    
+}
+.woman-card h1{
+    color: tomato;
+}
+
+.man-card h1{
+    color: tomato;
 }
 .woman-card img{
     
@@ -66,7 +86,7 @@ h5{
 .Contact{
 
     height: 400px;
-    background-color: thistle;
+    background-color: white;
     border-radius: 20px;
 
 
@@ -78,3 +98,12 @@ h5{
 .Contact p{
     color: royalblue;
 }   
+
+.button img {
+    width: 10px;
+    height: 10px;
+
+}
+.button{
+    background-color: tomato;
+}
