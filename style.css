@@ -2,7 +2,79 @@ body{
     font-family: 'Fraunces', serif;
     font-family: 'Oswald', sans-serif;
 }
+h5{
+    font-weight: bold;
+}
+
+.title-card{
+    border: 0;
+    
+}
 
 .woman-card{
     border: 0;
+    padding: 20px;
+    border-radius: 20px;
+    
+    
 }
+.woman-card img{
+    
+    height: 350px;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.man-card{
+    border: 0;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.man-card img{
+    height: 350px;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.panda-card-footer{
+    border: 0px;
+}
+
+
+.extra-card img{
+    height: 70px;
+    width: 70px;
+    padding-left: 10px;
+}
+
+.extra-card{
+    border: 0px;
+    border-radius: 15px;
+    
+}
+
+.inside{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+}
+
+.Contact{
+
+    height: 400px;
+    background-color: thistle;
+    border-radius: 20px;
+
+
+}
+
+.Contact h2{
+    color: red;
+}
+.Contact p{
+    color: royalblue;
+}   
